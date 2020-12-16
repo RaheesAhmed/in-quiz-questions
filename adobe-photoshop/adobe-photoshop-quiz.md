@@ -63,7 +63,7 @@
     A. Content-Aware Scale
     B. Scale
     C. Warp
-    D. Distort
+    D. Distort (Correct Answer)
     E. Perspective Warp
 
 - [x] C,D
